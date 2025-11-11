@@ -197,10 +197,11 @@ If you find these demo patterns helpful for learning:
 
 ## 🔗 Links
 
-- **Live Pattern Viewer:** [Coming Soon]
-- **Website:** [Coming Soon]
-- **Blog:** [Coming Soon]
-- **Workshops:** [Contact for details]
+- **Live Pattern Viewer:** [Patterns](https://learn.gilltrick.com/patterns)
+- **Website:** [AI Aligned Development ](https://learn.gilltrick.com)
+- **Blog:** [Blog](https://learn.gilltrick.com/blog)
+- **Journey:** [Journey-Blog](https://blog.gilltrick.de/blog/awakaning)
+- **Workshops:** [Contact for details](info@gilltrick.de)
 
 ---
 
@@ -230,4 +231,4 @@ Distilled from **16,500+ lines** of production code into **4,700 lines** of focu
 
 **Built with ❤️ for developers learning AI-powered development patterns**
 
-*Last updated: 2025-11-10*
+*Last updated: 2025-11-11*
